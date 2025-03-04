@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
   import VisibilityProvider from './providers/VisibilityProvider.svelte';
   import { debugData } from './utils/debugData';
 
